@@ -43,7 +43,7 @@ $(document).ready(function() {
   var woosh = document.getElementById("woosh");
   var quack = document.getElementById("quack");
   /////Game Logic
-
+  
   function playAudio(ID) {
     switch (ID) {
       case "upperleft":
